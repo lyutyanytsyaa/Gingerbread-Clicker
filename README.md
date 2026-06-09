@@ -9,3 +9,5 @@ A cozy, Christmas-themed idle clicker game built with Unity. This project was de
 * **UI & Architecture:** Implemented a modular upgrade shop with scrollable lists and dynamic item scaling using component-based logic.
 * **Component Control:** Created modular C# scripts such as `GameManager` for state and economy tracking, `StoreUpgrade` for handling item values, and `RotateAround` for visual UI juice.
 * **Text Formatting:** Integrated TextMeshPro for sharp, dynamic score updates and custom font configurations.
+
+![Gameplay Screenshot](Gingerbread Clicker.png)
